@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* MYRIADPRO BOLD */
+@font-face {
+  font-family: 'MYRIADPRO';
+  src: url('../assets/font/myriad-pro/MYRIADPRO-BOLD.OTF') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* MYRIADPRO BOLD CONDENSED */
+@font-face {
+  font-family: 'MYRIADPRO';
+  src: url('../assets/font/myriad-pro/MYRIADPRO-BOLDCOND.OTF') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* MYRIADPRO BOLD CONDENSED ITALIC */
+@font-face {
+  font-family: 'MYRIADPRO';
+  src: url('../assets/font/myriad-pro/MYRIADPRO-BOLDCONDIT.OTF') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* MYRIADPRO BOLD ITALIC */
+@font-face {
+  font-family: 'MYRIADPRO';
+  src: url('../assets/font/myriad-pro/MYRIADPRO-BOLDIT.OTF') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* MYRIADPRO CONDENSED */
+@font-face {
+  font-family: 'MYRIADPRO';
+  src: url('../assets/font/myriad-pro/MYRIADPRO-COND.OTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* MYRIADPRO CONDENSED ITALIC */
+@font-face {
+  font-family: 'MYRIADPRO';
+  src: url('../assets/font/myriad-pro/MYRIADPRO-CONDIT.OTF') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* MYRIADPRO LIGHT */
+@font-face {
+  font-family: 'MYRIADPRO';
+  src: url('../assets/font/myriad-pro/MyriadPro-Light.otf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* MYRIADPRO REGULAR */
+@font-face {
+  font-family: 'MYRIADPRO';
+  src: url('../assets/font/myriad-pro/MYRIADPRO-REGULAR.OTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* MYRIADPRO SEMIBOLD */
+@font-face {
+  font-family: 'MYRIADPRO';
+  src: url('../assets/font/myriad-pro/MYRIADPRO-SEMIBOLD.OTF') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* MYRIADPRO SEMIBOLD ITALIC */
+@font-face {
+  font-family: 'MYRIADPRO';
+  src: url('../assets/font/myriad-pro/MYRIADPRO-SEMIBOLDIT.OTF') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+body {
+  font-family: 'MYRIADPRO';
+}
+a {
+  text-decoration: none;
+}

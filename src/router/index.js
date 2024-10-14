@@ -1,5 +1,14 @@
 import { createRouter, createWebHashHistory } from "vue-router";
 import HomeView from "../views/HomeView.vue";
+import actionBv from "@/views/actionBv.vue";
+import NewsDetail from "../views/actionDetail.vue";
+import appointmentSchedule from "@/views/appointment-schedule.vue";
+import listDoctor from "@/views/listDoctor.vue";
+// import test from "@/views/testWeb.vue";
+import doctorDetail from "@/views/doctorDetail.vue";
+import question from "@/views/questionBv.vue";
+import questionDetail from "@/views/questionDetail.vue";
+import contactBv from "@/views/contactBv.vue";
 
 const routes = [
   {
@@ -8,13 +17,48 @@ const routes = [
     component: HomeView,
   },
   {
-    path: "/about",
-    name: "about",
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () =>
-      import(/* webpackChunkName: "about" */ "../views/AboutView.vue"),
+    path: "/action",
+    name: "actionBv",
+    component: actionBv,
+  },
+  {
+    path: "/action/detail",
+    name: "detail",
+    component: NewsDetail,
+    props: {
+      title: "Hoạt động",
+      title1: "Chỉ đạo tuyến",
+    },
+  },
+  {
+    path: "/appointment",
+    name: "appointment",
+    component: appointmentSchedule,
+  },
+  {
+    path: "/listDoctor",
+    name: "listDoctor",
+    component: listDoctor,
+  },
+  {
+    path: "/listDoctor/listDoctorDetail",
+    name: "listDoctorDetail",
+    component: doctorDetail,
+  },
+  {
+    path: "/question",
+    name: "questionBv",
+    component: question,
+  },
+  {
+    path: "/DetailQuestion",
+    name: "DetailQuestion",
+    component: questionDetail,
+  },
+  {
+    path: "/contactBv",
+    name: "contactBv",
+    component: contactBv,
   },
 ];
 

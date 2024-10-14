@@ -1,0 +1,121 @@
+[27072:25920:2024-9-25 19:32:25.579] Main Start
+[27072:25920:2024-9-25 19:32:25.579] Command line:"C:\Users\Trung\Desktop\B?nh vi?n da khoa kontum\bvdkkt\src\assets\font\Zoom_cm_ds_mpNIbM009ixhSASlJClYJnUqbay-bjGRwhhg@+Pbu8jjAasN4cJTt_k7aa05870c945bf86_.exe"  Instance:0x3F0000 Show State:1
+[27072:25920:2024-9-25 19:32:25.638] Zoo
+[27072:9676:2024-9-25 19:32:25.643] [process_requst] start, url:https://zoom.us/conf/launch
+[27072:9676:2024-9-25 19:32:26.662] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[27072:9676:2024-9-25 19:32:26.662] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[27072:9676:2024-9-25 19:32:26.662] [read_response_content] API call zHttpQueryInfo failed, error: 12150
+[27072:9676:2024-9-25 19:32:26.663] [log_response_content] Content length (1048576 as unknown):1048576 , Total read: 2332 , Error No: 0 , Status code: 200
+[27072:9676:2024-9-25 19:32:26.663] [log_response_content] header:
+[27072:9676:2024-9-25 19:32:26.663] HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2024 12:32:27 GMT
+Content-Type: text/plain;charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-zm-trackingid: v=2.0;clid=us06;rid=WEB_b10b9c7685428cdfc4b3b47555dc6c19
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests; default-src https://*.zoom.us https://zoom.us blob: 'self'; img-src https: about: blob: data: 'self'; style-src https: safari-extension: chrome-extension: 'unsafe-inline' data: 'self'; font-src https: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * rtmp: blob: data: 'self'; frame-src https: ms-appx-web: zoommtg: zoomus: wvjbscheme: zoomprc: data: blob: 'self'; object-src 'none'; base-uri 'none';
+x-frame-options: SAMEORIGIN
+set-cookie: _zm_feature=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Secure; HttpOnly
+x-zm-zoneid: VA
+strict-transport-security: max-age=31536000; includeSubDomains
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+CF-Cache-Status: DYNAMIC
+Set-Cookie: zm_aid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: zm_haid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: zm_tmaid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: zm_htmaid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: cred=6E38C30616BAA24E35522B11E591BCB9; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_page_auth=us06_c_xp23fjXqR6aa5nqnPW9dAA; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ssid=us06_c_jVYMjxtQRwCYcrjU06VwWw; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ctaid=xdZH9aaVSSaG8elIbztiEA.1727267547813.a780fcd4e5a118fa492e677e2e1a767a; Max-Age=7200; Expires=Wed, 25 Sep 2024 14:32:27 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_chtaid=40; Max-Age=7200; Expires=Wed, 25 Sep 2024 14:32:27 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_mtk_guid=b272182aadb945359e22b04a286caeaa; Max-Age=63072000; Expires=Fri, 25 Sep 2026 12:32:27 GMT; Domain=zoom.us; Path=/; Secure
+Set-Cookie: __cf_bm=3CZlSaCPn1q9CZgT36o5LTF.SRrwxlaKlpv4klBx0IU-1727267547-1.0.1.1-1qjHWUrezSxjuZfbQHL4p4C9ERXoC3HqQ2jdzeelc7YpjYtGWn.4582tdNE.0pr.1570kLEsMyl7CP4rSQWjOg; path=/; expires=Wed, 25-Sep-24 13:02:27 GMT; domain=.zoom.us; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=oeRwSiqSaxzv5T21%2FjenyN612%2FHV84Yog8iI84urKiXcR2%2FhHdhenvSyCljcFXk98c2mJIigYAeBfGyiDZCktZS2Qz60NB9YzhVk70kkYvLPvADZx6eEdlM%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8c8b097c2f824b92-SIN
+
+
+[27072:9676:2024-9-25 19:32:26.663] [process_requst] End for url:https://zoom.us/conf/launch, return code:200, Error:0, Response content size:2332
+[27072:25920:2024-9-25 19:32:26.701] [client_has_installed_app] found path:
+[27072:25920:2024-9-25 19:32:26.701]  ***NULL-POINTER-PLACEHOLDER***
+[27072:25920:2024-9-25 19:32:26.701] [param_query_local_path] path is: C:\Users\Trung\AppData\Roaming\Zoom\ZoomDownload\ dir create response : 1 system error: 1008
+[27072:25920:2024-9-25 19:32:26.701] [downloader_run] State:0
+[27072:27336:2024-9-25 19:32:26.701] [process_requst] start, url:https://zoom.us/client/latest/Installer.exe?archType=x64
+[27072:25920:2024-9-25 19:32:26.702] [client_has_installed_app] found path:
+[27072:25920:2024-9-25 19:32:26.702]  ***NULL-POINTER-PLACEHOLDER***
+[27072:27336:2024-9-25 19:32:27.535] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[27072:27336:2024-9-25 19:32:27.535] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[27072:27336:2024-9-25 19:32:27.913] [read_response_file] Status Code:200, content length: 1111880, total read: 1111880, error code: 0
+[27072:27336:2024-9-25 19:32:27.918] [process_requst] End for url:https://zoom.us/client/latest/Installer.exe?archType=x64, return code:200, Error:0, Response content size:0
+[27072:25920:2024-9-25 19:32:27.953] [handle_download_job_done] Index: 1 Curr index: 1 StatusCode: 200 Error: 0 Response is Empty. 
+[27072:27336:2024-9-25 19:32:28.116] [process_requst] start, url:https://zoom.us/client/latest/Zoom.msi?archType=x64
+[27072:27336:2024-9-25 19:32:28.645] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[27072:27336:2024-9-25 19:32:28.646] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[27072:27336:2024-9-25 19:32:33.520] [read_response_file] Status Code:200, content length: 39769617, total read: 39769617, error code: 0
+[27072:27336:2024-9-25 19:32:33.627] [process_requst] End for url:https://zoom.us/client/latest/Zoom.msi?archType=x64, return code:200, Error:0, Response content size:0
+[27072:25920:2024-9-25 19:32:33.634] [handle_download_job_done] Index: 2 Curr index: 2 StatusCode: 200 Error: 0 Response is Empty. 
+[27072:25920:2024-9-25 19:32:33.655] C:\Users\Trung\AppData\Roaming\Zoom\ZoomDownload\Installer.exe
+[27072:25920:2024-9-25 19:32:33.655] ZInstaller --conf.mode=silent --ipc_wnd=923582
+[27072:25920:2024-9-25 19:32:33.972] [launch_silent_install] Installer process created, result:42
+[27072:25920:2024-9-25 19:32:47.436] C:\Users\Trung\AppData\Roaming\Zoom\bin\Zoom.exe
+[27072:25920:2024-9-25 19:32:47.455] client_launch_app: 
+[27072:25920:2024-9-25 19:32:47.455] C:\Users\Trung\AppData\Roaming\Zoom\bin\Zoom.exe
+[27072:25920:2024-9-25 19:32:47.456] "--url=zoommtg://win.launch?h.domain=zoom.us&h.path=join&confid=dXNzPUVNb1gyVGNNX1hfVWw2aHBHVTA4c2psVS1wYTI0NzJqWlpOUV82eUx1dFgwaTU4Tk5hRWx5OXAtSXhCY2k4bmUwOVBPem9ibjNCVHhRdXgxeV9VNlJnWklkTGE2N1dQN25lN0owY05oTzhPV2VGUXF3WnprVDhSYnY1Q05HWXp3NDJFcnlSVTBmYmdRTGdxcmdiR0ZwZWlSUHJwTVgzc0l6Ml8zUy1UakxRcGxlUm1GSWNkOEVHTU1qa2QtOVpPd1I0QklQMDgueThzY3pqM0FNZHRHamNPZyZ0aWQ9Mzc3ZjQ2NmEzOTdhNDI3NmE2NzY2MjRkNjY4YmNlZDA%3D&mcv=0.92.11227.0929&stype=0&zc=0&browser=chrome&action=join&confno=6545457275"
+[27072:25920:2024-9-25 19:32:47.515] [client_launch_app] Zoom app process created, result:42
+[27072:25920:2024-9-25 19:32:47.574] Main End
+[17320:23540:2024-9-25 19:33:1.811] Main Start
+[17320:23540:2024-9-25 19:33:1.811] Command line:"C:\Users\Trung\Desktop\B?nh vi?n da khoa kontum\bvdkkt\src\assets\font\Zoom_cm_ds_mpNIbM009ixhSASlJClYJnUqbay-bjGRwhhg@+Pbu8jjAasN4cJTt_k7aa05870c945bf86_.exe"  Instance:0x3F0000 Show State:1
+[17320:23540:2024-9-25 19:33:1.861] Zoo
+[17320:24448:2024-9-25 19:33:1.866] [process_requst] start, url:https://zoom.us/conf/launch
+[17320:24448:2024-9-25 19:33:2.727] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[17320:24448:2024-9-25 19:33:2.727] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[17320:24448:2024-9-25 19:33:2.727] [read_response_content] API call zHttpQueryInfo failed, error: 12150
+[17320:24448:2024-9-25 19:33:2.729] [log_response_content] Content length (1048576 as unknown):1048576 , Total read: 2061 , Error No: 0 , Status code: 200
+[17320:24448:2024-9-25 19:33:2.729] [log_response_content] header:
+[17320:24448:2024-9-25 19:33:2.729] HTTP/1.1 200 OK
+Date: Wed, 25 Sep 2024 12:33:04 GMT
+Content-Type: text/plain;charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-zm-trackingid: v=2.0;clid=us06;rid=WEB_37b66a0be91e701b66624b2e0376855d
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests; default-src https://*.zoom.us https://zoom.us blob: 'self'; img-src https: about: blob: data: 'self'; style-src https: safari-extension: chrome-extension: 'unsafe-inline' data: 'self'; font-src https: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * rtmp: blob: data: 'self'; frame-src https: ms-appx-web: zoommtg: zoomus: wvjbscheme: zoomprc: data: blob: 'self'; object-src 'none'; base-uri 'none';
+x-frame-options: SAMEORIGIN
+set-cookie: _zm_feature=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Secure; HttpOnly
+set-cookie: zm_aid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: zm_haid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: zm_tmaid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: zm_htmaid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: cred=2C768BED3EF28A4F9A64424A8518ACBC; Path=/; Secure; HttpOnly
+set-cookie: _zm_page_auth=us06_c_Epm6at1uRLqGkz9ZaaTSGQ; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: _zm_ssid=us06_c_9MnnKQRNTFuCTFbEg4Z-MQ; Domain=zoom.us; Path=/; Secure; HttpOnly
+x-zm-zoneid: VA
+strict-transport-security: max-age=31536000; includeSubDomains
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=OsarBVgfbPioRqeZNght72zeW5bCuTZxBP%2FTQWyQx5qmFByHSEY7TWsEWlmP9rTRZDWMirVsqv6unOtffOML6%2BZ1%2BKaxaWXYyjsg%2F%2B87%2BxNyyzm65e0npdk%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8c8b0a5e79f19fa1-SIN
+
+
+[17320:24448:2024-9-25 19:33:2.729] [process_requst] End for url:https://zoom.us/conf/launch, return code:200, Error:0, Response content size:2061
+[17320:23540:2024-9-25 19:33:2.752] [imp_has_zoom_under_path] found zoom binaries under: 
+[17320:23540:2024-9-25 19:33:2.752] C:\Users\Trung\AppData\Roaming\Zoom\bin\Zoom.exe
+[17320:23540:2024-9-25 19:33:2.752] [client_has_installed_app] found path:
+[17320:23540:2024-9-25 19:33:2.752] C:\Users\Trung\AppData\Roaming\Zoom\bin\Zoom.exe
+[17320:23540:2024-9-25 19:33:2.752] [imp_has_zoom_under_path] found zoom binaries under: 
+[17320:23540:2024-9-25 19:33:2.752] C:\Users\Trung\AppData\Roaming\Zoom\bin\Zoom.exe
+[17320:23540:2024-9-25 19:33:2.752] [client_has_installed_app] found path:
+[17320:23540:2024-9-25 19:33:2.752] C:\Users\Trung\AppData\Roaming\Zoom\bin\Zoom.exe
+[17320:23540:2024-9-25 19:33:2.752] C:\Users\Trung\AppData\Roaming\Zoom\bin\Zoom.exe
+[17320:23540:2024-9-25 19:33:2.802] client_launch_app: 
+[17320:23540:2024-9-25 19:33:2.802] C:\Users\Trung\AppData\Roaming\Zoom\bin\Zoom.exe
+[17320:23540:2024-9-25 19:33:2.802] "--url=zoommtg://win.launch?h.domain=us06web.zoom.us&h.path=join&stype=0&zc=0&action=join&confno=6545457275"
+[17320:23540:2024-9-25 19:33:2.920] [client_launch_app] Zoom app process created, result:42
+[17320:23540:2024-9-25 19:33:2.942] Main End
