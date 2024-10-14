@@ -263,9 +263,6 @@ export default {
 
 <style lang="scss" scoped>
 $cololFull: #00a651;
-.backgroundNavigation-box {
-  padding-top: 160px;
-}
 .lisDocter-items {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -279,6 +276,7 @@ $cololFull: #00a651;
     border: 1px solid #ccc;
     border-radius: 10px;
     justify-content: space-evenly;
+    color: #000;
     .list-doctor__image {
       border-radius: 50%;
       height: 70%;

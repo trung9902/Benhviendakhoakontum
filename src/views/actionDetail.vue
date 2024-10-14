@@ -98,9 +98,6 @@ export default {
 </script>
 
 <style scoped lang="scss">
-ul.navigation__list {
-  padding-top: 168px;
-}
 .navigation__list {
   width: 1200px;
   max-width: 100%;

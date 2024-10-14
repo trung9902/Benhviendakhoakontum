@@ -165,9 +165,6 @@ export default {
 
 <style lang="scss" scoped>
 $cololFull: #00a651;
-.backgroundNavigation-box {
-  padding-top: 208px;
-}
 .schedule-table {
   margin: 20px auto;
   width: 1200px;

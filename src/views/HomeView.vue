@@ -606,9 +606,6 @@ export default {
 </script>
 <style scoped lang="scss">
 $cololFull: #00a651;
-.content {
-  padding-top: 121px;
-}
 .architecture-picture {
   position: relative;
 }

@@ -95,9 +95,6 @@ export default {
 
 <style lang="scss" scoped>
 $primary-color: #28a745;
-.backgroundNavigation-box {
-  padding-top: 168px;
-}
 textarea#message {
   height: 187px;
 }
