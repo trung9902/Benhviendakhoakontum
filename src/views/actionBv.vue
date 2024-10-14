@@ -116,6 +116,7 @@ $cololFull: #00a651;
   height: 100%;
 }
 .content-action {
+  padding-top: 160px;
   padding-bottom: 50px;
 }
 .FeaturedNews {

@@ -152,6 +152,9 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.backgroundNavigation-box {
+  padding-top: 168px;
+}
 .question-container {
   display: flex;
   width: 1200px;

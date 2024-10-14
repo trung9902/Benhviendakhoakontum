@@ -337,6 +337,9 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.backgroundNavigation-box {
+  padding-top: 168px;
+}
 .doctor-profile {
   display: flex;
   align-items: flex-start;

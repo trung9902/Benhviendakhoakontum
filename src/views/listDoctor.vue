@@ -263,6 +263,9 @@ export default {
 
 <style lang="scss" scoped>
 $cololFull: #00a651;
+.backgroundNavigation-box {
+  padding-top: 160px;
+}
 .lisDocter-items {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
